@@ -97,7 +97,7 @@ export default defineConfig({
 npm run docs:dev
 ```
 
-**打开浏览器访问 **[http://localhost:5173](http://localhost:5173) 即可查看博客。
+100|**打开浏览器访问你博客的实际地址即可查看博客。**
 
 **- 构建项目 ：当你完成博客内容编写后，可以运行以下命令构建静态文件：**
 
